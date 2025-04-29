@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.dblitt.com.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.41%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.24%",
     "time": 366,
     "timeDay": 453,
     "timeWeek": 391,
@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/paperless.dblitt.com.ico",
     "slug": "paperless",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.41%",
-    "uptimeYear": "98.22%",
+    "uptimeYear": "98.24%",
     "time": 467,
     "timeDay": 603,
     "timeWeek": 472,
@@ -46,18 +46,19 @@
     "url": "https://jellyfin.dblitt.com",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.dblitt.com.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.25%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.42%",
-    "uptimeYear": "98.22%",
+    "uptimeYear": "98.25%",
     "time": 342,
     "timeDay": 484,
     "timeWeek": 398,
     "timeMonth": 351,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
       "2025-04-11": 942,
       "2025-04-10": 190
     }
@@ -67,7 +68,7 @@
     "url": "https://lounge.dblitt.com",
     "icon": "https://icons.duckduckgo.com/ip3/lounge.dblitt.com.ico",
     "slug": "the-lounge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -78,6 +79,8 @@
     "timeWeek": 272,
     "timeMonth": 238,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-29": 0
+    }
   }
 ]
