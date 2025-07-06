@@ -1,7 +1,7 @@
 url: https://jellyfin.dblitt.com
-status: down
-code: 502
-responseTime: 3263
-lastUpdated: 2025-07-06T19:25:58.499Z
+status: up
+code: 200
+responseTime: 386
+lastUpdated: 2025-07-06T20:19:47.544Z
 startTime: 2025-03-15T21:32:58.073Z
 generator: Upptime <https://github.com/upptime/upptime>
