@@ -1,7 +1,7 @@
 url: https://vault.dblitt.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-20T21:16:56.590Z
+status: up
+code: 200
+responseTime: 427
+lastUpdated: 2025-11-20T21:29:09.613Z
 startTime: 2025-03-15T21:32:56.443Z
 generator: Upptime <https://github.com/upptime/upptime>
