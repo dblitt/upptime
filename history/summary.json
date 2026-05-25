@@ -57,17 +57,17 @@
     "url": "https://paperless.dblitt.com",
     "icon": "https://icons.duckduckgo.com/ip3/paperless.dblitt.com.ico",
     "slug": "paperless",
-    "status": "up",
+    "status": "down",
     "uptime": "81.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "77.83%",
-    "time": 659,
-    "timeDay": 484,
-    "timeWeek": 556,
-    "timeMonth": 489,
-    "timeYear": 645,
+    "time": 657,
+    "timeDay": 333,
+    "timeWeek": 509,
+    "timeMonth": 479,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2025-05-31": 1278,
       "2025-05-30": 549,
@@ -159,7 +159,8 @@
       "2025-12-24": 206,
       "2026-02-24": 308,
       "2026-02-23": 62,
-      "2026-04-23": 53
+      "2026-04-23": 53,
+      "2026-05-25": 0
     }
   },
   {
@@ -167,9 +168,9 @@
     "url": "https://jellyfin.dblitt.com",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.dblitt.com.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "81.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.14%",
@@ -267,7 +268,8 @@
       "2025-12-04": 27,
       "2026-02-24": 308,
       "2026-02-23": 62,
-      "2026-04-23": 52
+      "2026-04-23": 52,
+      "2026-05-25": 0
     }
   },
   {
